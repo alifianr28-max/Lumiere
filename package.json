@@ -1,0 +1,1 @@
+{"name":"lumiere","version":"1.0.0","private":true,"description":"Lumière: tugas, kebiasaan, mood, dan jurnal.","dependencies":{"@capacitor/android":"^6.1.0","@capacitor/cli":"^6.1.0","@capacitor/core":"^6.1.0","@capacitor/local-notifications":"^6.1.0"}}
